@@ -1,5 +1,4 @@
-public class Calculadore {
-    /**
+/**
 * <h1>Calculadora</h1>
 * A Calculadora realiza operações matemáticas entre números inteiros
 * <p>
@@ -20,6 +19,4 @@ public class Calculadora {
     public int somar(int numeroUm, int numeroDois) {
         return  numeroUm + numeroDois;
     }
-    
-}
 }
